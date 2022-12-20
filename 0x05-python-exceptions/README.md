@@ -1,1 +1,1 @@
-0x05. Python - Exceptions, alx project
+0x05-python-exceptions, alx python project
