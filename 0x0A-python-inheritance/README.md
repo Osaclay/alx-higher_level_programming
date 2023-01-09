@@ -1,1 +1,1 @@
-Alx Python - Inheritance project
+alx project, Python - Inheritance 
